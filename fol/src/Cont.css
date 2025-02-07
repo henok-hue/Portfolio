@@ -1,0 +1,165 @@
+.look {
+    background-color: white;
+     
+    padding: 5px 5px;
+    position: relative;
+   gap: 20%;
+   border-radius: 60%;
+   width: 10%;
+   height: 35%;
+  }
+  .ho{ 
+      display: flex;
+      flex-direction: column-reverse;
+      background-color: black;
+      width: 50%;
+      position: relative;
+      top: 120px;
+      left: 20%;
+      padding: 160px 20px;
+      border-radius: 70px;
+      overflow: hidden;
+  } 
+  .po {
+      color: rgb(208, 208, 208);
+     text-decoration: none;
+      font-size: 80%;
+      position: relative;
+      bottom: 22px;
+      left: 2%;
+  
+     
+  }
+  .rese {
+      position: relative;
+      left: 10%;
+     text-decoration: none;
+     gap: 10%;
+     top: 20px;
+  }
+  .shoul {
+      position: relative;
+      left: 10%;
+    text-decoration: none;
+     gap: 10%;
+     top: 0px;
+  }
+  .w {
+      position: relative;
+      left: 10%;
+     text-decoration: none;
+     gap: 10%;
+     bottom: 20px;
+  }
+  @media (max-width: 800px) {
+      .look {
+          background-color: white;
+           
+          padding: 5px 5px;
+          position: relative;
+         gap: 20%;
+         border-radius: 60%;
+         width: 10%;
+         height: 35%;
+        }
+        .ho{ 
+            display: flex;
+            flex-direction: column-reverse;
+            background-color: black;
+            width: 90%;
+            position: relative;
+            top: 120px;
+            left: 5%;
+            padding: 140px 10px;
+            border-radius: 70px;
+            overflow: hidden;
+           
+        } 
+        .po {
+            color: rgb(208, 208, 208);
+           
+            font-size: 45%;
+            position: relative;
+            bottom: 22px;
+            left: 2%;
+        
+           
+        }
+        .rese {
+            position: relative;
+          left: 15%;
+           text-decoration: none;
+          
+           bottom: -20px;
+        }
+        .shoul {
+            position: relative;
+            left: 10%;
+           text-decoration: none;
+           gap: 10%;
+           bottom: 00px;
+        }
+        .w {
+            position: relative;
+            left: 10%;
+           text-decoration: none;
+          
+           bottom: 20px;
+        }
+  }
+  @media (max-width: 1000px) {
+      .look {
+          background-color: white;
+           
+          padding: 5px 5px;
+          position: relative;
+         gap: 20%;
+         border-radius: 60%;
+         width: 10%;
+         height: 35%;
+        }
+        .hot{ 
+            display: flex;
+            flex-direction: column-reverse;
+            background-color: black;
+            width: 50%;
+            position: relative;
+            top: 100px;
+            left: 23%;
+            padding: 140px 00px;
+            border-radius: 70px;
+            overflow: hidden;
+        } 
+        .po {
+            color: rgb(255, 255, 255);
+           text-decoration: none;
+            font-size: 50%;
+            position: relative;
+            bottom: 22px;
+            left: 2%;
+        
+           
+        }
+        .rese {
+            position: relative;
+            left: 10%;
+           text-decoration: none;
+           gap: 10%;
+           bottom: -30px;
+        }
+        .should {
+            position: relative;
+            left: 20%;
+           text-decoration: none;
+           gap: 10%;
+           bottom: 30px;
+        }
+        .we {
+            position: relative;
+            left: 20%;
+           text-decoration: none;
+           gap: 10%;
+           bottom: 60px;
+        }
+  }
+  

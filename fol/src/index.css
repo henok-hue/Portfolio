@@ -1,0 +1,676 @@
+body {
+  font-family: Century Gothic ;
+  background-image: linear-gradient(#9808ff , #0033ff);
+  color: white;
+}
+.ad:hover {
+  color: red;
+}
+.abc:hover {
+  color: red;
+}
+.h:hover {
+  color: red;
+}
+.be:hover {
+  color: red;
+}
+.av {
+  display: flex;
+  width: 102%;
+ right: 0.1%;
+ top: 1px;
+  position: relative;
+z-index: 999;
+  position: fixed;
+ 
+ 
+  font-family: Century Gothic ;
+}
+.avdark {
+  display: flex;
+  width: 102%;
+ right: 0.1%;
+ top: 1px;
+  position: relative;
+ background-color: #4c30a2;
+  position: fixed;
+ 
+ 
+  font-family: Century Gothic ;
+}.rf {
+    
+    right: -300px;
+    position: relative;
+  }
+.g {
+  position: relative;
+  left: -250px;
+}
+.ag {
+  font-size: 200%;
+  display: flex;
+ font-family: Century Gothic ;
+ position: relative;
+ left: 5%;
+ font-weight: bolder;
+}
+
+.m {
+  position: relative;
+text-decoration: none;
+color: rgb(255, 255, 255);
+left: 60%;
+
+
+
+}
+.abc {
+  position: relative;
+
+ 
+
+ left: 109%;
+ text-decoration: none;
+ color: rgb(255, 255, 255);
+}
+.ad {
+  position: relative;
+  color: rgb(255, 255, 255);
+  left: 64%;
+}
+.be {
+  position: relative;
+
+  left: 148%;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+.so {
+  display: flex;
+  left: 60%;
+  position: relative;
+
+   gap: 3%;
+}
+.me {
+  border: 0;
+  
+  width: 15%;
+  height: 30%;
+ 
+ 
+ 
+}
+.ui {
+  position: relative;
+  right: 20px;
+}
+
+.i {  background-image: linear-gradient(#153f4c , #af9fec);
+
+  padding: 8px 8px;
+  position: relative;
+ right: 3px; border-radius: 60%;
+ width: 7%;
+ height: 35%;
+  
+}
+.l:hover {
+  animation-name: yrames;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+  animation-direction: right;
+  animation-play-state: running;  
+}
+.l {
+border: 1px solid white;
+padding:  9px 15px;
+font-size: 80%;
+position: relative;
+left: 395%;
+text-decoration: none;
+color: white;
+bottom: 20px;
+}
+.yu {
+   display: flex;
+   position: relative;
+   bottom: 300px;
+}
+.hea {position: relative;
+  top: 200px;
+  border: 1px solid rgb(166, 167, 167);
+  background-image: linear-gradient(#9ce7fd , #4c30a2);
+  width: 70%;
+  padding: 10px 10px;
+  height: 10%;
+ 
+}
+header {
+
+  font-weight: 500;
+  font-size: 150%;
+}
+h1 {
+  position: relative;
+  top: 400px;
+  font-size: 350%;
+}
+h2 {
+  width: 130%;
+  font-weight: lighter;
+  top: 400px;
+  position: relative;
+  font-size: 110%;
+}
+.rr {
+  width: 10%;
+  position: relative;
+  top: 15px;
+  left: 10px;
+  animation-name: myrames;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+  animation-direction: right;
+  animation-play-state: running;
+}
+h3 {
+  position: relative;
+  top: 400px;
+  font-size: 120%;
+  font-weight: 50;
+  left: 40%;
+  text-decoration: none;
+  color: white;
+}
+span {
+  color: rgb(0, 255, 38);
+  top: 679px;
+  position: relative;
+  left: 1040px;
+}
+.co {
+  width: 70%;
+  height: 70%;
+  position: relative;
+  
+ right: 0%;
+  animation-name: myframes;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: right;
+    animation-play-state: running;
+}
+.per {
+  display: flex;
+  position: relative;
+  top: 500px;
+  font-size: 200%;
+  gap: 30%;
+  background-color: #0d232a;
+  width: 30%;
+  padding: 55px 285px;
+  left: 15%;
+  border-radius: 20px;
+  
+ 
+}
+.cen {
+  position: relative;
+   left: -65%;
+   border: 1px solid  #648089; ;
+   border-radius: 50% ;
+   padding: 50px 40px;
+}
+.ui {
+  position: relative;
+   left: -35%;
+}
+
+ @keyframes myframes{
+    0%{
+     top: 500px;
+    }
+    50% {
+      top: 510px; 
+    }
+    100% {
+      top: 500px; 
+    }
+}
+@keyframes myrames{
+  0%{
+  left: 10px;
+  }
+  50% {
+   left: 15px;
+  }
+  100% {
+   left: 10px;
+  }
+}
+@keyframes yrames{
+  0%{
+border: 1px solid rgb(0, 255, 42);
+  }
+  50% {
+  border: 1px solid rgb(225, 255, 0);
+  }
+  100% {
+   border: 1px solid red;
+  }
+}
+@media (max-width :1000px
+
+){
+  body {
+    font-family: Century Gothic ;
+    background-image: linear-gradient(#9808ff , #0033ff);
+    color: white;
+  }
+  .ad:hover {
+    color: red;
+  }
+  .abc:hover {
+    color: red;
+  }
+  .h:hover {
+    color: red;
+  }
+  .be:hover {
+    color: red;
+  }
+  .av {
+    display: flex;
+    width: 72%;
+   right: 300px;
+   top: 1px;
+    position: relative;
+  
+    position: fixed;
+  
+   
+    font-family: Century Gothic ;
+  }
+  .avdark {
+background: 0;
+  }
+  
+  .g {
+    font-size: 120%;
+    display: flex;
+   font-family: Century Gothic ;
+   position: relative;
+right: 2%;
+   font-weight: bolder;
+  }
+  
+  .m {
+    position: relative;
+  
+  
+  
+    left: -1%;
+    bottom: 22px;
+  
+  
+  }
+  
+  .abc {
+    position: relative;
+    bottom: 22px;
+   
+  
+   left: 35%;
+   text-decoration: none;
+  
+  }
+  .ad {
+    position: relative;
+    color: rgb(173, 173, 173);
+    left: 7%;
+  }
+  .be {
+    position: relative;
+    bottom: 22px;
+    left: 75%;
+    text-decoration: none;
+   
+  }
+  .so {
+    display: flex;
+    left: 15%;
+    position: relative;
+  
+     gap: 3%;
+  }
+  .me {
+    border: 0;
+    
+    width: 15%;
+    height: 30%;
+   
+   
+   
+  }.i {  background-image: linear-gradient(#153f4c , #af9fec);
+  
+    padding: 8px 8px;
+    position: relative;
+   right: 20px; border-radius: 60%;
+   width: 3%;
+   height: 35%;
+    
+  }
+  .l {
+  border: 1px solid white;
+  padding:  7px 13px;
+  font-size: 60%;
+  position: relative;
+  left: 270%;
+  bottom: 35px;
+  }
+  .yu {
+     display: flex;
+  }
+  .hea {position: relative;
+    top: 500px;
+    border: 1px solid rgb(166, 167, 167);
+    background-image: linear-gradient(#9ce7fd , #4c30a2);
+    width: 80%;
+    padding: 10px 10px;
+    height: 5%;
+   
+  }
+  header {
+    
+    font-weight: 200;
+    font-size: 100%;
+
+  }
+  h1 {
+    position: relative;
+    top: 510px;
+    font-size: 250%;
+  }
+  h2 {
+    width: 90%;
+    font-weight: lighter;
+    top: 500px;
+    position: relative;
+    font-size: 100%;
+  }
+  .rr {
+    width: 9%;
+    position: relative;
+    top: 8px;
+    left: 10px;
+  }
+  h3 {
+    position: relative;
+    top: 530px;
+    font-size: 100%;
+    font-weight: 50;
+    left: 40%;
+  }
+  .com {
+    width: 30%;
+    height: 30%;
+    position: relative;
+    top: 300px;
+   right: 10%;
+    animation-name: myframes;
+      animation-duration: 20s;
+      animation-iteration-count: infinite;
+      animation-timing-function: ease-in-out;
+      animation-direction: right;
+      animation-play-state: running;
+  }
+  .per {
+    display: flex;
+    position: relative;
+    top: 500px;
+    font-size: 200%;
+    gap: 30%;
+    background-color: #0d232a;
+    width: 30%;
+    padding: 55px 205px;
+    left: 10%;
+    border-radius: 20px;
+    
+   
+  }
+  .cen {
+    position: relative;
+     left: -80%;
+     border: 1px solid  #648089; ;
+     border-radius: 50% ;
+     padding: 30px 20px;
+     width: 40%;
+     font-size: 70%;
+  }
+  .ui {
+    position: relative;
+     left: -80%;
+     font-size: 50%;
+  }
+}
+@media (max-width :800px
+
+){
+  body {
+    font-family: Century Gothic ;
+    background-image: linear-gradient(#9808ff , #0033ff);
+    color: white;
+  }
+  .ad:hover {
+    color: red;
+  }
+  .abc:hover {
+    color: red;
+  }
+  .h:hover {
+    color: red;
+  }
+  .be:hover {
+    color: red;
+  }
+  .av {
+    display: flex;
+    width: 152%;
+   left: -195px;
+    top: 1px;
+    position: relative;
+  
+    position: fixed;
+   
+   
+    font-family: Century Gothic ;
+  }
+  .avdark {
+    left: -195px;
+  background-color: #9808ff;
+  display: flex;
+  width: 152%;
+ height: 20px;
+ top: 1px;
+  position: relative;
+
+  position: fixed;
+ 
+ 
+  font-family: Century Gothic ;
+  }
+  .rf {
+    position: relative;
+  }
+  .g {
+    font-size: 60%;
+    display: flex;
+   font-family: Century Gothic ;
+   position: relative;
+left: -79%;
+   font-weight: bolder;
+  }
+  
+  .m {
+    position: relative;
+  font-size: 64%;
+  
+  bottom: 19px;
+    left: -27%;
+  
+  
+  
+  }
+    .abc {
+    position: relative;
+    bottom: 19px;
+   
+  
+   left: 0%;
+   text-decoration: none;
+
+   font-size: 60%;
+  }
+  .ad {
+    position: relative;
+    color: rgb(173, 173, 173);
+    left: -24%;
+    font-size: 80%;
+  }
+  .be {
+    position: relative;
+    font-size: 60%;
+    left: 27%;
+    text-decoration: none;
+   
+    bottom: 19px;
+  }
+  .so {
+    display: flex;
+    left: 5%;
+    position: relative;
+  
+     gap: 3%;
+  }
+  .me {
+    border: 0;
+    
+    width: 15%;
+    height: 30%;
+   
+   
+   
+  }.i {  background-image: linear-gradient(#153f4c , #af9fec);
+  
+    padding: 8px 8px;
+    position: relative;
+   right: 87px; 
+   border-radius: 60%;
+   width: 3%;
+   height: 13%;
+    
+  }
+  .l {
+  border: 1px solid white;
+  padding:  4px 10px;
+  font-size: 2%;
+  position: relative;
+  left: 180px;
+  bottom: 30px;
+  }
+  .yu {
+     display: flex;
+  }
+  .hea {position: relative;
+    top: 400px;
+    border: 1px solid rgb(166, 167, 167);
+    background-image: linear-gradient(#9ce7fd , #4c30a2);
+    width: 70%;
+    padding: 10px 10px;
+    height: 2%;
+  
+   
+  }
+  header {
+    
+    font-weight: 500;
+    font-size: 20%;
+  }
+  h1 {
+    position: relative;
+    top: 400px;
+    font-size: 200%;
+  }
+  h2 {
+    width: 100%;
+    font-weight: lighter;
+    top: 400px;
+    position: relative;
+    font-size: 40%;
+  }
+  .rr {
+    width: 9%;
+    position: relative;
+    top: 4px;
+    left: 10px;
+  }
+  h3 {
+    position: relative;
+    top: 400px;
+    font-size: 70%;
+    font-weight: 50;
+    left: 40%;
+  }
+  .com {
+    width: 30%;
+    height: 30%;
+    position: relative;
+    top: 300px;
+   right: 10%;
+    animation-name: myframes;
+      animation-duration: 20s;
+      animation-iteration-count: infinite;
+      animation-timing-function: ease-in-out;
+      animation-direction: right;
+      animation-play-state: running;
+  }
+  .per {
+    display: flex;
+    position: relative;
+    top: 200px;
+    font-size: 200%;
+    gap: 10%;
+    background-color: #0d232a;
+    width: 30%;
+    padding: 35px 105px;
+    left: 6%;
+    border-radius: 20px;
+    
+   
+  }
+  .cen {
+    position: relative;
+     left: -90%;
+     border: 1px solid  #648089; ;
+     border-radius: 50% ;
+     padding: 15px 10px;
+     width: 30%;
+     font-size: 30%;
+  }
+  .ui {
+    position: relative;
+     left: -80%;
+     font-size: 25%;
+  }
+  span {
+    color: rgb(0, 255, 38);
+    top: 670px;
+    position: relative;
+    left: 040px;
+  }
+}
