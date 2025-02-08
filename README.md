@@ -85,8 +85,5 @@ Please note that this project is released with a Contributor Code of Conduct. By
 
 ## **Contact**
 
-If you have any questions or comments about Project Title, please contact **[Your Name](you@example.com)**.
+If you have any questions or comments about Project Title, please contact mohammedhenok@gamil.com
 
-## **Conclusion**
-
-That's it! This is a basic template for a proper README file for a general project. You can customize it to fit your needs, but make sure to include all the necessary information. A good README file can help users understand and use your project, and it can also help attract contributors.
